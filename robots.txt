@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tantepigh.github.io/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/app/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/assets/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/css/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/includes/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/item/tantepigh.txt.gz
+Sitemap: https://tantepigh.github.io/src/tantepigh.txt.gz
